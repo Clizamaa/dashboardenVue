@@ -2,10 +2,11 @@ import { createRouter, createWebHistory } from 'vue-router'
 
 const routes = [
   {
-    path: '/',
-    name: 'home',
-    component: HomeView
-  }
+  path: '/',
+    name: 'Sidebar',
+    component: () => import('../views/SideBar.vue')
+  },
+
 ]
 
 const router = createRouter({
