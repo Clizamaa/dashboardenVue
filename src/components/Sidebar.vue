@@ -4,7 +4,7 @@
             <ul>
                 <li>
                     <a href="#">
-                        <!-- <img src="assest/PNG/Color 2_SubSalud.png"> -->
+                         <img src="../assets/logo.png">
                     </a>
                 </li>
                 <li>
